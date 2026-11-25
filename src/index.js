@@ -1,4 +1,4 @@
-const ALLOWED_REPOS = ['tax-talaivaa', 'roth-talaivaa', 'civicdna', 'yuktiai'];
+const ALLOWED_REPOS = ['tax-talaivaa']; // Add future ClarityPath app slugs here
 
 export default {
   async fetch(request) {
