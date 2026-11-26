@@ -1,11 +1,9 @@
-
 {
-  "/tax": {
+  "/app": {
     "type": "github",
-    "owner": "evolvedhow",
-    "repo": "tax-talaivaa"
+    "owner": "evolvedhow"
   },
-  "/app/tax-talaivaa": {
+  "/tax": {
     "type": "github",
     "owner": "evolvedhow",
     "repo": "tax-talaivaa"
@@ -16,6 +14,21 @@
     "repo": "kula"
   },
   "/elections": {
+    "type": "github",
+    "owner": "evolvedhow",
+    "repo": "ga-election-explorer"
+  },
+  "/tax-talaivaa": {
+    "type": "github",
+    "owner": "evolvedhow",
+    "repo": "tax-talaivaa"
+  },
+  "/kula": {
+    "type": "github",
+    "owner": "evolvedhow",
+    "repo": "kula"
+  },
+  "/ga-election-explorer": {
     "type": "github",
     "owner": "evolvedhow",
     "repo": "ga-election-explorer"
